@@ -1,5 +1,6 @@
 """
 GCD of 2 numbers
+smallest number which can divide both a & b
 
 Approach 1: reduce the smaller number untill it divides both smaller & bigger number O(min(a,b))
 
