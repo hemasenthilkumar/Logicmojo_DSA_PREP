@@ -1,13 +1,12 @@
 """
-Find two non repeating elements in an array of repeating elements
+Given an array where every element appears three times except one, find that one element
 
-Eg:
-Input: nums = [2, 4, 7, 9, 2, 4]
-Output: [7, 9]
-Explanation: 7 and 9 appear only once; all others appear twice.
+Input: nums = [2, 2, 3, 2]
+Output: 3
+Explanation: 3 appears once, while every other element appears exactly three times.
 """
-# PENDING: Need to think for solution O(N) or O(1) with space also O(1) may be using bit manipulation
 
+# PENDING: Need to think for solution O(N) or O(1) with space also O(1) may be using bit manipulation
 
 def find_non_repeat_a2(x):
     # TC: O(n)
@@ -34,15 +33,15 @@ def find_non_repeat(x):
     while i < len(x):
         print(x[i])
         if i+1 < len(x) and x[i] == x[i+1]:
-            i += 2
+            i += 3
         else:
             res.append(x[i])
             i += 1 
     return res 
 
 if __name__ == "__main__":
-    x= [-1, -2, -1, -3, -2, -4]
-    y =[10,20]
+    x= [2, 2, 3, 2]
+    y =[0, 1, 0, 1, 0, 1, 99]
     z=[10]
     print(find_non_repeat(x))
     print(find_non_repeat_a2(x))
