@@ -13,6 +13,8 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | **aug_10_s4** | Binary Search, Find Duplicate, Find Missing Number, Find Odd Occurrence, Recursion |
 | **aug_16_s5** | Majority Element, Pair Sum Close to 0, Segregate 0/1, Two Pointers, Two Repeated |
 | **aug_17_s6** | Bubble Sort, Insertion Sort, Merge Sort, Selection Sort |
+| **aug_23_s7** | Binary Search, Two Pointers |
+| **aug_24_s8** | Backtracking |
 
 ---
 
