@@ -23,7 +23,8 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | Topic | Problem |
 |-------|---------|
 | Bit Manipulation | [Great XOR](assignments/great_xor.py) |
-| Bit Manipulation | [Lonely Stranger](assignments/lonely_stranger.py) |
+| Bit Manipulation | [Lonely Integer](assignments/lonely_stranger.py) |
+| Bit Manipulation | [Flipping Bits](assignments/flipping_bits.py) |
 | Bit Manipulation | [Maximizing XOR](assignments/maximizing_xor.py) |
 | Array / Voting Algo | [Majority Element II](assignments/majority_element_2.py) |
 | Array | [Max Difference Between Elements](assignments/max_diff_btwn_elem.py) |
