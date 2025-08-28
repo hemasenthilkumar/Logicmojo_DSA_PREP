@@ -22,7 +22,6 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 
 | Topic | Problem |
 |-------|---------|
-
 | Bit Manipulation | [Great XOR](assignments/great_xor.py) |
 | Bit Manipulation | [Lonely Stranger](assignments/lonely_stranger.py) |
 | Bit Manipulation | [Maximizing XOR](assignments/maximizing_xor.py) |
@@ -36,6 +35,7 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | Backtracking | [Subset Sum](assignments/subset_sum_bt.py) |
 | Backtracking | [Rat in a Maze](assignments/rat_in_a_maze.py) |
 | Backtracking | [Generate Parentheses](assignments/generate_paranthesis.py) |
+
 ---
 
 ## Session-wise Problems
