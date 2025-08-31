@@ -15,6 +15,7 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | **aug_17_s6** | Bubble Sort, Insertion Sort, Merge Sort, Selection Sort |
 | **aug_23_s7** | Binary Search, Two Pointers |
 | **aug_24_s8** | Backtracking |
+| **aug_31_s9** | Linked List |
 
 ---
 
@@ -76,7 +77,11 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | aug_24_s8 | Backtracking | [Knight's Tour](aug_24_s8/knight_tour.py) |
 | aug_24_s8 | Backtracking | [N Queens](aug_24_s8/n_queens.py) |
 | aug_24_s8 | Backtracking | [Towers of Hanoi](aug_24_s8/towers_of_hanoi.py) |
-
+| aug_31_s9 | Linked List | [Basics](aug_31_s9/linked_list_bascis.py) |
+| aug_31_s9 | Linked List | [Traversal](aug_31_s9/traversal.py) |
+| aug_31_s9 | Linked List | [Insertion](aug_31_s9/insertion.py) |
+| aug_31_s9 | Linked List | [Deletion](aug_31_s9/deletion.py) |
+| aug_31_s9 | Linked List | [Search](aug_31_s9/search.py) |
 ---
 
 ## How to Run
