@@ -37,6 +37,12 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | Backtracking | [Subset Sum](assignments/subset_sum_bt.py) |
 | Backtracking | [Rat in a Maze](assignments/rat_in_a_maze.py) |
 | Backtracking | [Generate Parentheses](assignments/generate_paranthesis.py) |
+| LinkedList | [Detect Cycle](assignments/detect_cycle_ll.py)|
+| LinkedList | [First Node of Cycle](assignments/first_node_of_cycle.py)|
+| LinkedList | [LinkedList Intersection](assignments/ll_intersection.py)|
+| LinkedList | [Middle of LinkedList](assignments/middle_of_ll.py)|
+| LinkedList | [LinkedList Palindrome](assignments/palindrome_ll.py)|
+| LinkedList | [Reverse Doubly Linked List](assignments/reverse_dl.py)|
 
 ---
 
@@ -82,6 +88,9 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | aug_31_s9 | Linked List | [Insertion](aug_31_s9/insertion.py) |
 | aug_31_s9 | Linked List | [Deletion](aug_31_s9/deletion.py) |
 | aug_31_s9 | Linked List | [Search](aug_31_s9/search.py) |
+| aug_31_s9 | Linked List | [Reversal](aug_31_s9/reversal.py) |
+| aug_31_s9 | Linked List | [Get Kth Node](aug_31_s9\get_node_at_given_index.py) |
+| aug_31_s9 | Linked List | [Get Kth Node from end](aug_31_s9/kth_from_end.py) |
 ---
 
 ## How to Run
