@@ -37,6 +37,7 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | Backtracking | [Subset Sum](assignments/subset_sum_bt.py) |
 | Backtracking | [Rat in a Maze](assignments/rat_in_a_maze.py) |
 | Backtracking | [Generate Parentheses](assignments/generate_paranthesis.py) |
+| Backtracking | [Solve Sudoku A1 (TLE)](assignments/sudoku_solver.py)|
 | LinkedList | [Detect Cycle](assignments/detect_cycle_ll.py)|
 | LinkedList | [First Node of Cycle](assignments/first_node_of_cycle.py)|
 | LinkedList | [LinkedList Intersection](assignments/ll_intersection.py)|
