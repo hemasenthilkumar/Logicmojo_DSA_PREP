@@ -34,6 +34,8 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | Array / Two Pointers | [Three Sum](assignments/three_sum.py) |
 | Array | [Buy and Sell Stock](assignments/buy_sell_stock.py) |
 | Array | [Find Peak Element](assignments/find_peak_element.py) |
+| Array | [Find Duplicate](assignments\find_more_than2_duplicate.py) |
+| Array | [Count Pairs](assignments\count_pairs_with_sum.py) |
 | Backtracking | [Subset Sum](assignments/subset_sum_bt.py) |
 | Backtracking | [Rat in a Maze](assignments/rat_in_a_maze.py) |
 | Backtracking | [Generate Parentheses](assignments/generate_paranthesis.py) |
