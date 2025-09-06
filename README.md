@@ -16,6 +16,7 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | **aug_23_s7** | Binary Search, Two Pointers |
 | **aug_24_s8** | Backtracking |
 | **aug_31_s9** | Linked List |
+| **sep_06_s10** | Linked List |
 
 ---
 
