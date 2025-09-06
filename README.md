@@ -101,6 +101,10 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | sep_06_s10 | LinkedList | [Linked List Intersection A1](sep_06_s10/ll_intersection_a1.py)|
 | sep_06_s10 | LinkedList | [Merge 2 sorted LL](sep_06_s10/merge_2_sorted_ll.py) |
 | sep_06_s10 | LinkedList | [Add 2 numbers](sep_06_s10/add_2_numbers.py) |
+| sep_06_s10 | LinkedList | [Merge Sort](sep_06_s10\merge_sort_ll.py) |
+| sep_06_s10 | LinkedList | [Rotate LinkedList K Times](sep_06_s10\rotate_ll_k.py) |
+| sep_06_s10 | LinkedList | [Flatten Sorted LinkedList](sep_06_s10\flatten_ll.py) |
+
 ---
 
 ## How to Run
