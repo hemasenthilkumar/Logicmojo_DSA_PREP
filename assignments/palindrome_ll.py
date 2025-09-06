@@ -1,3 +1,11 @@
+"""
+A1: Create a stack and insert the nodes
+    pop the stack one by one and compare with original list
+    return false if not equal else finally true
+A2: Find middle, reverse and compare with original
+"""
+
+
 def reverse(head_node):
     prev = None
     curr = head_node

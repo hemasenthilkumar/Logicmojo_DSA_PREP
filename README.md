@@ -36,13 +36,14 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | Array | [Find Peak Element](assignments/find_peak_element.py) |
 | Array | [Find Duplicate](assignments\find_more_than2_duplicate.py) |
 | Array | [Count Pairs](assignments\count_pairs_with_sum.py) |
+| Array | [Get All Pairs](assignments\get_all_two_sum.py) |
 | Backtracking | [Subset Sum](assignments/subset_sum_bt.py) |
 | Backtracking | [Rat in a Maze](assignments/rat_in_a_maze.py) |
 | Backtracking | [Generate Parentheses](assignments/generate_paranthesis.py) |
 | Backtracking | [Solve Sudoku A1 (TLE)](assignments/sudoku_solver.py)|
 | LinkedList | [Detect Cycle](assignments/detect_cycle_ll.py)|
 | LinkedList | [First Node of Cycle](assignments/first_node_of_cycle.py)|
-| LinkedList | [LinkedList Intersection](assignments/ll_intersection.py)|
+| LinkedList | [LinkedList Intersection A2](assignments/ll_intersection_a2.py)|
 | LinkedList | [Middle of LinkedList](assignments/middle_of_ll.py)|
 | LinkedList | [LinkedList Palindrome](assignments/palindrome_ll.py)|
 | LinkedList | [Reverse Doubly Linked List](assignments/reverse_dl.py)|
@@ -94,6 +95,12 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | aug_31_s9 | Linked List | [Reversal](aug_31_s9/reversal.py) |
 | aug_31_s9 | Linked List | [Get Kth Node](aug_31_s9\get_node_at_given_index.py) |
 | aug_31_s9 | Linked List | [Get Kth Node from end](aug_31_s9/kth_from_end.py) |
+| sep_06_s10 | LinkedList | [Middle of LinkedList](assignments/middle_of_ll.py)|
+| sep_06_s10 | LinkedList | [Detect Cycle](assignments/detect_cycle_ll.py)|
+| sep_06_s10 | LinkedList | [LinkedList Palindrome](assignments/palindrome_ll.py)|
+| sep_06_s10 | LinkedList | [Linked List Intersection A1](sep_06_s10/ll_intersection_a1.py)|
+| sep_06_s10 | LinkedList | [Merge 2 sorted LL](sep_06_s10/merge_2_sorted_ll.py) |
+| sep_06_s10 | LinkedList | [Add 2 numbers](sep_06_s10/add_2_numbers.py) |
 ---
 
 ## How to Run
