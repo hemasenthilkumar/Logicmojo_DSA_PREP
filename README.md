@@ -17,6 +17,7 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | **aug_24_s8** | Backtracking |
 | **aug_31_s9** | Linked List |
 | **sep_06_s10** | Linked List |
+| **sep_07_s11** | Linked List, Stack |
 
 ---
 
@@ -104,8 +105,12 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | sep_06_s10 | LinkedList | [Add 2 numbers](sep_06_s10/add_2_numbers.py) |
 | sep_06_s10 | LinkedList | [Merge Sort](sep_06_s10/merge_sort_ll.py) |
 | sep_06_s10 | LinkedList | [Rotate LinkedList K Times](sep_06_s10/rotate_ll_k.py) |
-| sep_06_s10 | LinkedList | [Flatten Sorted LinkedList](sep_06_s10/flatten_ll.py) |
-
+| sep_06_s10 | LinkedList | [Flatten Sorted LinkedList A1](sep_06_s10/flatten_ll.py) |
+| sep_07_s11 | LinkedList | [Flatten Sorted LinkedList A2](sep_07_s11/flatten_ll_a2.py) |
+| sep_07_s11 | LinkedList | [Copy List with Random pointer A1](sep_07_s11/copy_ll_random_pointer.py) |
+| sep_07_s11 | LinkedList | [Copy List with Random pointer A2](sep_07_s11/copy_ll_random_pointer_a2.py) |
+| sep_07_s11 | Stack | [Valid Paranthesis](sep_07_s11/valid_paranthesis.py) |
+| sep_07_s11 | Stack | [Min Stack](sep_07_s11/min_stack.py) |
 ---
 
 ## How to Run
