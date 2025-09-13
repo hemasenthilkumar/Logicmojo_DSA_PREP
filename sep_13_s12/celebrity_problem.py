@@ -1,5 +1,6 @@
 def find_celebrity(matrix):
     n = len(matrix)
+    
     stack = []
     for i in range(n):
         stack.append(i)
@@ -11,23 +12,24 @@ def find_celebrity(matrix):
 
         if matrix[first][second] == 1:
             stack.append(second)
-        if matrix[second][first] == 1:
+        else:
             stack.append(first)
         
         # both knows each other or doesnt know each 
+    if not stack:
+        return -1 
+    
+    celeb = stack.pop()
 
-    if len(stack) > 0:
-        celeb = stack.pop()
+    # celeb should not know anyone 
+    for i in range(n):
+        if celeb !=i and matrix[celeb][i] == 1:
+            return -1 
+    # everyone should know celeb  
 
-        # celeb should not know anyone 
-        for i in range(n):
-            if celeb !=i and matrix[celeb][i] == 1:
-                return -1 
-        # everyone should know celeb  
-
-        for i in range(n):
-            if matrix[i][celeb] == 0:
-                return -1 
+    for i in range(n):
+        if matrix[i][celeb] == 0:
+            return -1 
     return celeb  
 
 if __name__ == "__main__":
