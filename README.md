@@ -55,6 +55,9 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | 28 | LinkedList | [Reorder List](assignments/reorder_ll.py) |
 | 29 | Stack | [Stack Using Queues (Pop Heavy)](assignments/stack_using_queues.py) |
 | 30 | Stack | [Stack using Linked List](assignments/stack_using_ll.py) |
+| 31 | Two Pointers | [Celebrity Problem A2](assignments/celebrity_problem_a2.py) |
+| 32 | Stack | [Evaluation of Postfix](assignments/evaluation_of_postfix.py) |
+| 33 | Stack | [Prefix to Infix](assignments/prefix_2_infix.py) |
 
 
 
