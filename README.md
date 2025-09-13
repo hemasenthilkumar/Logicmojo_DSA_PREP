@@ -25,39 +25,40 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 
 | S.No | Topic | Problem |
 |------|-------|---------|
-| 1 | Bit Manipulation | [Great XOR](assignments/great_xor.py) |
-| 2 | Bit Manipulation | [Lonely Integer](assignments/lonely_stranger.py) |
-| 3 | Bit Manipulation | [Flipping Bits](assignments/flipping_bits.py) |
-| 4 | Bit Manipulation | [Maximizing XOR](assignments/maximizing_xor.py) |
-| 5 | Array / Voting Algo | [Majority Element II](assignments/majority_element_2.py) |
-| 6 | Array | [Max Difference Between Elements](assignments/max_diff_btwn_elem.py) |
-| 7 | Array / Rotation | [Rotate Array](assignments/rotate_array.py) |
-| 8 | Array / Sorting | [Sort 0, 1, 2](assignments/sort_0_1_2.py) |
-| 9 | Array / Two Pointers | [Three Sum](assignments/three_sum.py) |
-| 10 | Array | [Buy and Sell Stock](assignments/buy_sell_stock.py) |
-| 11 | Array | [Find Peak Element](assignments/find_peak_element.py) |
-| 12 | Array | [Find Duplicate](assignments/find_more_than2_duplicate.py) |
-| 13 | Array | [Count Pairs](assignments/count_pairs_with_sum.py) |
-| 14 | Array | [Get All Pairs](assignments/get_all_two_sum.py) |
-| 15 | Backtracking | [Subset Sum](assignments/subset_sum_bt.py) |
-| 16 | Backtracking | [Rat in a Maze](assignments/rat_in_a_maze.py) |
-| 17 | Backtracking | [Generate Parentheses](assignments/generate_paranthesis.py) |
-| 18 | Backtracking | [Solve Sudoku A1 (TLE)](assignments/sudoku_solver.py)|
-| 19 | LinkedList | [Detect Cycle](assignments/detect_cycle_ll.py)|
-| 20 | LinkedList | [First Node of Cycle](assignments/first_node_of_cycle.py)|
-| 21 | LinkedList | [LinkedList Intersection A2](assignments/ll_intersection_a2.py)|
-| 22 | LinkedList | [Middle of LinkedList](assignments/middle_of_ll.py)|
-| 23 | LinkedList | [LinkedList Palindrome](assignments/palindrome_ll.py)|
-| 24 | LinkedList | [Reverse Doubly Linked List](assignments/reverse_dl.py)|
-| 25 | LinkedList | [Next greater element in Linked List](assignments/next_greater_elem_ll.py) |
-| 26 | LinkedList | [Reverse nodes in K group](assignments/reverse_nodes_in_k_group.py) |
-| 27 | LinkedList | [Split Linked List Alternatively](assignments/split_ll_alternative.py) |
-| 28 | LinkedList | [Reorder List](assignments/reorder_ll.py) |
-| 29 | Stack | [Stack Using Queues (Pop Heavy)](assignments/stack_using_queues.py) |
-| 30 | Stack | [Stack using Linked List](assignments/stack_using_ll.py) |
-| 31 | Two Pointers | [Celebrity Problem A2](assignments/celebrity_problem_a2.py) |
-| 32 | Stack | [Evaluation of Postfix](assignments/evaluation_of_postfix.py) |
-| 33 | Stack | [Prefix to Infix](assignments/prefix_2_infix.py) |
+| 1  | Bit Manipulation      | [Great XOR](assignments/great_xor.py) |
+| 2  | Bit Manipulation      | [Lonely Integer](assignments/lonely_stranger.py) |
+| 3  | Bit Manipulation      | [Flipping Bits](assignments/flipping_bits.py) |
+| 4  | Bit Manipulation      | [Maximizing XOR](assignments/maximizing_xor.py) |
+| 5  | Array / Voting Algo   | [Majority Element II](assignments/majority_element_2.py) |
+| 6  | Array                | [Max Difference Between Elements](assignments/max_diff_btwn_elem.py) |
+| 7  | Array / Rotation      | [Rotate Array](assignments/rotate_array.py) |
+| 8  | Array / Sorting       | [Sort 0, 1, 2](assignments/sort_0_1_2.py) |
+| 9  | Array / Two Pointers  | [Three Sum](assignments/three_sum.py) |
+| 10 | Array / Two Pointers  | [Celebrity Problem A2](assignments/celebrity_problem_a2.py) |
+| 11 | Array                | [Buy and Sell Stock](assignments/buy_sell_stock.py) |
+| 12 | Array                | [Find Peak Element](assignments/find_peak_element.py) |
+| 13 | Array                | [Find Duplicate](assignments/find_more_than2_duplicate.py) |
+| 14 | Array                | [Count Pairs](assignments/count_pairs_with_sum.py) |
+| 15 | Array                | [Get All Pairs](assignments/get_all_two_sum.py) |
+| 16 | Array                | [Find median of 2 sorted arrays](assignments/median_of_2_sorted_elements.py) |
+| 17 | Backtracking         | [Subset Sum](assignments/subset_sum_bt.py) |
+| 18 | Backtracking         | [Rat in a Maze](assignments/rat_in_a_maze.py) |
+| 19 | Backtracking         | [Generate Parentheses](assignments/generate_paranthesis.py) |
+| 20 | Backtracking         | [Solve Sudoku A1 (TLE)](assignments/sudoku_solver.py)|
+| 21 | LinkedList           | [Detect Cycle](assignments/detect_cycle_ll.py)|
+| 22 | LinkedList           | [First Node of Cycle](assignments/first_node_of_cycle.py)|
+| 23 | LinkedList           | [LinkedList Intersection A2](assignments/ll_intersection_a2.py)|
+| 24 | LinkedList           | [Middle of LinkedList](assignments/middle_of_ll.py)|
+| 25 | LinkedList           | [LinkedList Palindrome](assignments/palindrome_ll.py)|
+| 26 | LinkedList           | [Reverse Doubly Linked List](assignments/reverse_dl.py)|
+| 27 | LinkedList           | [Next greater element in Linked List](assignments/next_greater_elem_ll.py) |
+| 28 | LinkedList           | [Reverse nodes in K group](assignments/reverse_nodes_in_k_group.py) |
+| 29 | LinkedList           | [Split Linked List Alternatively](assignments/split_ll_alternative.py) |
+| 30 | LinkedList           | [Reorder List](assignments/reorder_ll.py) |
+| 31 | Stack                | [Stack Using Queues (Pop Heavy)](assignments/stack_using_queues.py) |
+| 32 | Stack                | [Stack using Linked List](assignments/stack_using_ll.py) |
+| 33 | Stack                | [Evaluation of Postfix](assignments/evaluation_of_postfix.py) |
+| 34 | Stack                | [Prefix to Infix](assignments/prefix_2_infix.py) |
 
 
 
