@@ -18,107 +18,113 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | **aug_31_s9** | Linked List |
 | **sep_06_s10** | Linked List |
 | **sep_07_s11** | Linked List, Stack |
-
+| **sep_13_s12** | Stack |
 ---
 
 ## Assignments / Practice Problems
 
-| Topic | Problem |
-|-------|---------|
-| Bit Manipulation | [Great XOR](assignments/great_xor.py) |
-| Bit Manipulation | [Lonely Integer](assignments/lonely_stranger.py) |
-| Bit Manipulation | [Flipping Bits](assignments/flipping_bits.py) |
-| Bit Manipulation | [Maximizing XOR](assignments/maximizing_xor.py) |
-| Array / Voting Algo | [Majority Element II](assignments/majority_element_2.py) |
-| Array | [Max Difference Between Elements](assignments/max_diff_btwn_elem.py) |
-| Array / Rotation | [Rotate Array](assignments/rotate_array.py) |
-| Array / Sorting | [Sort 0, 1, 2](assignments/sort_0_1_2.py) |
-| Array / Two Pointers | [Three Sum](assignments/three_sum.py) |
-| Array | [Buy and Sell Stock](assignments/buy_sell_stock.py) |
-| Array | [Find Peak Element](assignments/find_peak_element.py) |
-| Array | [Find Duplicate](assignments/find_more_than2_duplicate.py) |
-| Array | [Count Pairs](assignments/count_pairs_with_sum.py) |
-| Array | [Get All Pairs](assignments/get_all_two_sum.py) |
-| Backtracking | [Subset Sum](assignments/subset_sum_bt.py) |
-| Backtracking | [Rat in a Maze](assignments/rat_in_a_maze.py) |
-| Backtracking | [Generate Parentheses](assignments/generate_paranthesis.py) |
-| Backtracking | [Solve Sudoku A1 (TLE)](assignments/sudoku_solver.py)|
-| LinkedList | [Detect Cycle](assignments/detect_cycle_ll.py)|
-| LinkedList | [First Node of Cycle](assignments/first_node_of_cycle.py)|
-| LinkedList | [LinkedList Intersection A2](assignments/ll_intersection_a2.py)|
-| LinkedList | [Middle of LinkedList](assignments/middle_of_ll.py)|
-| LinkedList | [LinkedList Palindrome](assignments/palindrome_ll.py)|
-| LinkedList | [Reverse Doubly Linked List](assignments/reverse_dl.py)|
-| LinkedList | [Next greater element in Linked List](assignments/next_greater_elem_ll.py) |
-| LinkedList | [Reverse nodes in K group](assignments/reverse_nodes_in_k_group.py) |
-| LinkedList | [Split Linked List Alternatively](assignments/split_ll_alternative.py) |
-| LinkedList | [Reorder List](assignments/reorder_ll.py) |
-| Stack | [Stack Using Queues](assignments/stack_using_queues.py) |
-| Stack | [Stack using Linked List](assignments/stack_using_ll.py) |
+| S.No | Topic | Problem |
+|------|-------|---------|
+| 1 | Bit Manipulation | [Great XOR](assignments/great_xor.py) |
+| 2 | Bit Manipulation | [Lonely Integer](assignments/lonely_stranger.py) |
+| 3 | Bit Manipulation | [Flipping Bits](assignments/flipping_bits.py) |
+| 4 | Bit Manipulation | [Maximizing XOR](assignments/maximizing_xor.py) |
+| 5 | Array / Voting Algo | [Majority Element II](assignments/majority_element_2.py) |
+| 6 | Array | [Max Difference Between Elements](assignments/max_diff_btwn_elem.py) |
+| 7 | Array / Rotation | [Rotate Array](assignments/rotate_array.py) |
+| 8 | Array / Sorting | [Sort 0, 1, 2](assignments/sort_0_1_2.py) |
+| 9 | Array / Two Pointers | [Three Sum](assignments/three_sum.py) |
+| 10 | Array | [Buy and Sell Stock](assignments/buy_sell_stock.py) |
+| 11 | Array | [Find Peak Element](assignments/find_peak_element.py) |
+| 12 | Array | [Find Duplicate](assignments/find_more_than2_duplicate.py) |
+| 13 | Array | [Count Pairs](assignments/count_pairs_with_sum.py) |
+| 14 | Array | [Get All Pairs](assignments/get_all_two_sum.py) |
+| 15 | Backtracking | [Subset Sum](assignments/subset_sum_bt.py) |
+| 16 | Backtracking | [Rat in a Maze](assignments/rat_in_a_maze.py) |
+| 17 | Backtracking | [Generate Parentheses](assignments/generate_paranthesis.py) |
+| 18 | Backtracking | [Solve Sudoku A1 (TLE)](assignments/sudoku_solver.py)|
+| 19 | LinkedList | [Detect Cycle](assignments/detect_cycle_ll.py)|
+| 20 | LinkedList | [First Node of Cycle](assignments/first_node_of_cycle.py)|
+| 21 | LinkedList | [LinkedList Intersection A2](assignments/ll_intersection_a2.py)|
+| 22 | LinkedList | [Middle of LinkedList](assignments/middle_of_ll.py)|
+| 23 | LinkedList | [LinkedList Palindrome](assignments/palindrome_ll.py)|
+| 24 | LinkedList | [Reverse Doubly Linked List](assignments/reverse_dl.py)|
+| 25 | LinkedList | [Next greater element in Linked List](assignments/next_greater_elem_ll.py) |
+| 26 | LinkedList | [Reverse nodes in K group](assignments/reverse_nodes_in_k_group.py) |
+| 27 | LinkedList | [Split Linked List Alternatively](assignments/split_ll_alternative.py) |
+| 28 | LinkedList | [Reorder List](assignments/reorder_ll.py) |
+| 29 | Stack | [Stack Using Queues (Pop Heavy)](assignments/stack_using_queues.py) |
+| 30 | Stack | [Stack using Linked List](assignments/stack_using_ll.py) |
+
 
 
 ---
 
 ## Session-wise Problems
-
-| Session | Topic | Problem |
-|---------|-------|---------|
-| jul_26_s1 | Math / Conversion | [Binary to Decimal](jul_26_s1/bin_2_dec.py) |
-| jul_26_s1 | Math | [GCD](jul_26_s1/gcd.py) |
-| jul_26_s1 | Math | [LCM](jul_26_s1/lcm.py) |
-| jul_27_s2 | Math | [Prime Number](jul_27_s2/prime_number.py) |
-| aug_09_s3 | Math | [Prime Number](aug_09_s3/prime_number.py) |
-| aug_09_s3 | Math / Recursion | [Basic Fibonacci](aug_09_s3/basic_fibo.py) |
-| aug_09_s3 | Bit Manipulation | [Basic Bit Manipulation](aug_09_s3/basic_bit_manipulation.py) |
-| aug_09_s3 | Bit Manipulation | [Find Non-Duplicate](aug_09_s3/find_non_duplicate.py) |
-| aug_09_s3 | Bit Manipulation | [Find Non-Repeating](aug_09_s3/find_non_repeating.py) |
-| aug_09_s3 | Bit Manipulation | [Find One in Thrice](aug_09_s3/find_one_in_thrice.py) |
-| aug_10_s4 | Bit Manipulation | [Find Odd Occurrence](aug_10_s4/find_odd_occur.py) |
-| aug_09_s3 | Bit Manipulation | [Power of 2](aug_09_s3/power_of_2.py) |
-| aug_10_s4 | Binary Search | [Binary Search](aug_10_s4/binary_search.py) |
-| aug_10_s4 | Array / Duplicate | [Find Duplicate](aug_10_s4/find_duplicate.py) |
-| aug_10_s4 | Array / Missing | [Find Missing Number](aug_10_s4/find_missing_number.py) |
-| aug_10_s4 | Recursion | [Recursion Basics](aug_10_s4/recursion.py) |
-| aug_16_s5 | Array / Voting Algo | [Majority Element](aug_16_s5/majority_element.py) |
-| aug_16_s5 | Array / Two Pointers | [Pair Sum Close to 0](aug_16_s5/pair_sum_close_to_0.py) |
-| aug_16_s5 | Array | [Segregate 0 and 1](aug_16_s5/segregate_01.py) |
-| aug_16_s5 | Two Pointers | [Two Pointers](aug_16_s5/two_pointers.py) |
-| aug_16_s5 | Array | [Two Repeated Numbers](aug_16_s5/two_repeated.py) |
-| aug_17_s6 | Sorting | [Bubble Sort](aug_17_s6/bubble_sort.py) |
-| aug_17_s6 | Sorting | [Insertion Sort](aug_17_s6/insertion_sort.py) |
-| aug_17_s6 | Sorting | [Merge Sort](aug_17_s6/merge_sort.py) |
-| aug_17_s6 | Sorting | [Selection Sort](aug_17_s6/selection_sort.py) |
-| aug_23_s7 | Backtracking | [Backtracking Basics](aug_23_s7/backtracking.py) |
-| aug_23_s7 | Binary Search | [Search in Bitonic Array](aug_23_s7/search_bitonic_array.py) |
-| aug_23_s7 | Array(Sliding window) | [Subarray Range Sum](aug_23_s7/subarray_range_sum.py) |
-| aug_23_s7 | Array(Two pointers) | [Trapping Rain Water](aug_23_s7/trapping_rain_water.py) |
-| aug_24_s8 | Backtracking | [Find Binary Representation](aug_24_s8/find_binary.py) |
-| aug_24_s8 | Backtracking | [Knight's Tour](aug_24_s8/knight_tour.py) |
-| aug_24_s8 | Backtracking | [N Queens](aug_24_s8/n_queens.py) |
-| aug_24_s8 | Backtracking | [Towers of Hanoi](aug_24_s8/towers_of_hanoi.py) |
-| aug_31_s9 | Linked List | [Basics](aug_31_s9/linked_list_bascis.py) |
-| aug_31_s9 | Linked List | [Traversal](aug_31_s9/traversal.py) |
-| aug_31_s9 | Linked List | [Insertion](aug_31_s9/insertion.py) |
-| aug_31_s9 | Linked List | [Deletion](aug_31_s9/deletion.py) |
-| aug_31_s9 | Linked List | [Search](aug_31_s9/search.py) |
-| aug_31_s9 | Linked List | [Reversal](aug_31_s9/reversal.py) |
-| aug_31_s9 | Linked List | [Get Kth Node](aug_31_s9/get_node_at_given_index.py) |
-| aug_31_s9 | Linked List | [Get Kth Node from end](aug_31_s9/kth_from_end.py) |
-| sep_06_s10 | LinkedList | [Middle of LinkedList](assignments/middle_of_ll.py)|
-| sep_06_s10 | LinkedList | [Detect Cycle](assignments/detect_cycle_ll.py)|
-| sep_06_s10 | LinkedList | [LinkedList Palindrome](assignments/palindrome_ll.py)|
-| sep_06_s10 | LinkedList | [Linked List Intersection A1](sep_06_s10/ll_intersection_a1.py)|
-| sep_06_s10 | LinkedList | [Merge 2 sorted LL](sep_06_s10/merge_2_sorted_ll.py) |
-| sep_06_s10 | LinkedList | [Add 2 numbers](sep_06_s10/add_2_numbers.py) |
-| sep_06_s10 | LinkedList | [Merge Sort](sep_06_s10/merge_sort_ll.py) |
-| sep_06_s10 | LinkedList | [Rotate LinkedList K Times](sep_06_s10/rotate_ll_k.py) |
-| sep_06_s10 | LinkedList | [Flatten Sorted LinkedList A1](sep_06_s10/flatten_ll.py) |
-| sep_07_s11 | LinkedList | [Flatten Sorted LinkedList A2](sep_07_s11/flatten_ll_a2.py) |
-| sep_07_s11 | LinkedList | [Copy List with Random pointer A1](sep_07_s11/copy_ll_random_pointer.py) |
-| sep_07_s11 | LinkedList | [Copy List with Random pointer A2](sep_07_s11/copy_ll_random_pointer_a2.py) |
-| sep_07_s11 | Stack | [Valid Paranthesis](sep_07_s11/valid_paranthesis.py) |
-| sep_07_s11 | Stack | [Min Stack](sep_07_s11/min_stack.py) |
+| S.No | Session      | Topic                              | Problem                                                      |
+|------|-------------|------------------------------------|--------------------------------------------------------------|
+| 1    | jul_26_s1   | Math / Conversion  | [Binary to Decimal](jul_26_s1/bin_2_dec.py)                  |
+| 2    | jul_26_s1   | Math               | [GCD](jul_26_s1/gcd.py)                                      |
+| 3    | jul_26_s1   | Math               | [LCM](jul_26_s1/lcm.py)                                      |
+| 4    | jul_27_s2   | Math               | [Prime Number](jul_27_s2/prime_number.py)                    |
+| 5    | aug_09_s3   | Math               | [Prime Number](aug_09_s3/prime_number.py)                    |
+| 6    | aug_09_s3   | Math / Recursion   | [Basic Fibonacci](aug_09_s3/basic_fibo.py)                   |
+| 7    | aug_09_s3   | Bit Manipulation   | [Basic Bit Manipulation](aug_09_s3/basic_bit_manipulation.py)|
+| 8    | aug_09_s3   | Bit Manipulation   | [Find Non-Duplicate](aug_09_s3/find_non_duplicate.py)        |
+| 9    | aug_09_s3   | Bit Manipulation   | [Find Non-Repeating](aug_09_s3/find_non_repeating.py)        |
+| 10   | aug_09_s3   | Bit Manipulation   | [Find One in Thrice](aug_09_s3/find_one_in_thrice.py)        |
+| 11   | aug_10_s4   | Bit Manipulation   | [Find Odd Occurrence](aug_10_s4/find_odd_occur.py)           |
+| 12   | aug_09_s3   | Bit Manipulation   | [Power of 2](aug_09_s3/power_of_2.py)                        |
+| 13   | aug_10_s4   | Binary Search      | [Binary Search](aug_10_s4/binary_search.py)                  |
+| 14   | aug_10_s4   | Array / Duplicate     | [Find Duplicate](aug_10_s4/find_duplicate.py)                |
+| 15   | aug_10_s4   | Array / Missing       | [Find Missing Number](aug_10_s4/find_missing_number.py)       |
+| 16   | aug_10_s4   | Recursion             | [Recursion Basics](aug_10_s4/recursion.py)                   |
+| 17   | aug_16_s5   | Array / Voting Algo   | [Majority Element](aug_16_s5/majority_element.py)            |
+| 18   | aug_16_s5   | Array / Two Pointers  | [Pair Sum Close to 0](aug_16_s5/pair_sum_close_to_0.py)      |
+| 19   | aug_16_s5   | Array                 | [Segregate 0 and 1](aug_16_s5/segregate_01.py)               |
+| 20   | aug_16_s5   | Two Pointers          | [Two Pointers](aug_16_s5/two_pointers.py)                    |
+| 21   | aug_16_s5   | Array                 | [Two Repeated Numbers](aug_16_s5/two_repeated.py)            |
+| 22   | aug_17_s6   | Sorting               | [Bubble Sort](aug_17_s6/bubble_sort.py)                      |
+| 23   | aug_17_s6   | Sorting               | [Insertion Sort](aug_17_s6/insertion_sort.py)                |
+| 24   | aug_17_s6   | Sorting               | [Merge Sort](aug_17_s6/merge_sort.py)                        |
+| 25   | aug_17_s6   | Sorting               | [Selection Sort](aug_17_s6/selection_sort.py)                |
+| 26   | aug_23_s7   | Backtracking          | [Backtracking Basics](aug_23_s7/backtracking.py)             |
+| 27   | aug_23_s7   | Binary Search         | [Search in Bitonic Array](aug_23_s7/search_bitonic_array.py) |
+| 28   | aug_23_s7   | Array(Sliding window) | [Subarray Range Sum](aug_23_s7/subarray_range_sum.py)        |
+| 29   | aug_23_s7   | Array(Two pointers)   | [Trapping Rain Water](aug_23_s7/trapping_rain_water.py)      |
+| 30   | aug_24_s8   | Backtracking          | [Find Binary Representation](aug_24_s8/find_binary.py)       |
+| 31   | aug_24_s8   | Backtracking          | [Knight's Tour](aug_24_s8/knight_tour.py)                    |
+| 32   | aug_24_s8   | Backtracking          | [N Queens](aug_24_s8/n_queens.py)                            |
+| 33   | aug_24_s8   | Backtracking          | [Towers of Hanoi](aug_24_s8/towers_of_hanoi.py)              |
+| 34   | aug_31_s9   | Linked List           | [Basics](aug_31_s9/linked_list_bascis.py)                    |
+| 35   | aug_31_s9   | Linked List           | [Traversal](aug_31_s9/traversal.py)                          |
+| 36   | aug_31_s9   | Linked List           | [Insertion](aug_31_s9/insertion.py)                          |
+| 37   | aug_31_s9   | Linked List           | [Deletion](aug_31_s9/deletion.py)                            |
+| 38   | aug_31_s9   | Linked List           | [Search](aug_31_s9/search.py)                                |
+| 39   | aug_31_s9   | Linked List           | [Reversal](aug_31_s9/reversal.py)                            |
+| 40   | aug_31_s9   | Linked List   | [Get Kth Node](aug_31_s9/get_node_at_given_index.py)         |
+| 41   | aug_31_s9   | Linked List   | [Get Kth Node from end](aug_31_s9/kth_from_end.py)           |
+| 42   | sep_06_s10  | LinkedList    | [Middle of LinkedList](assignments/middle_of_ll.py)          |
+| 43   | sep_06_s10  | LinkedList    | [Detect Cycle](assignments/detect_cycle_ll.py)               |
+| 44   | sep_06_s10  | LinkedList    | [LinkedList Palindrome](assignments/palindrome_ll.py)        |
+| 45   | sep_06_s10  | LinkedList    | [Linked List Intersection A1](sep_06_s10/ll_intersection_a1.py)|
+| 46   | sep_06_s10  | LinkedList    | [Merge 2 sorted LL](sep_06_s10/merge_2_sorted_ll.py)         |
+| 47   | sep_06_s10  | LinkedList    | [Add 2 numbers](sep_06_s10/add_2_numbers.py)                 |
+| 48   | sep_06_s10  | LinkedList    | [Merge Sort](sep_06_s10/merge_sort_ll.py)                    |
+| 49   | sep_06_s10  | LinkedList    | [Rotate LinkedList K Times](sep_06_s10/rotate_ll_k.py)       |
+| 50   | sep_06_s10  | LinkedList    | [Flatten Sorted LinkedList A1](sep_06_s10/flatten_ll.py)     |
+| 51   | sep_07_s11  | LinkedList    | [Flatten Sorted LinkedList A2](sep_07_s11/flatten_ll_a2.py)  |
+| 52   | sep_07_s11  | LinkedList    | [Copy List with Random pointer A1](sep_07_s11/copy_ll_random_pointer.py) |
+| 53   | sep_07_s11  | LinkedList    | [Copy List with Random pointer A2](sep_07_s11/copy_ll_random_pointer_a2.py) |
+| 54   | sep_07_s11  | Stack         | [Valid Paranthesis](sep_07_s11/valid_paranthesis.py)         |
+| 55   | sep_07_s11  | Stack         | [Min Stack](sep_07_s11/min_stack.py)                         |
+| 56   | sep_13_s12  | Stack         | [Stock using Queues (Push Heavy)](sep_13_s12/stock_using_queues_a2.py) |
+| 57   | sep_13_s12  | Stack         | [Stock Span](sep_13_s12/stock_span.py)                       |
+| 58   | sep_13_s12  | Stack         | [Celebrity Problem](sep_13_s12/celebrity_problem.py)         |
+| 59   | sep_13_s12  | Stack         | [Largest Rectangle in Histogram](sep_13_s12/largest_rectangle_in_histogram.py) |
+| 60   | sep_13_s12  | Stack         | [Infix to Postfix](sep_13_s12/infix_to_postfix.py) |
 ---
+
 
 ## How to Run
 
