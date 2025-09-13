@@ -1,6 +1,8 @@
 from collections import deque
 class MyStack:
 
+    # this is pop heavy operation
+    # if we need push heavy and pop using o(1), then we need to do the append logic to the push
     def __init__(self):
         self.queue = deque()
 

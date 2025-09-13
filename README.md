@@ -49,6 +49,13 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | LinkedList | [Middle of LinkedList](assignments/middle_of_ll.py)|
 | LinkedList | [LinkedList Palindrome](assignments/palindrome_ll.py)|
 | LinkedList | [Reverse Doubly Linked List](assignments/reverse_dl.py)|
+| LinkedList | [Next greater element in Linked List](assignments/next_greater_elem_ll.py) |
+| LinkedList | [Reverse nodes in K group](assignments/reverse_nodes_in_k_group.py) |
+| LinkedList | [Split Linked List Alternatively](assignments/split_ll_alternative.py) |
+| LinkedList | [Reorder List](assignments/reorder_ll.py) |
+| Stack | [Stack Using Queues](assignments/stack_using_queues.py) |
+| Stack | [Stack using Linked List](assignments/stack_using_ll.py) |
+
 
 ---
 
