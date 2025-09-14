@@ -65,8 +65,8 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 ---
 
 ## Session-wise Problems
-| S.No | Session      | Topic                              | Problem                                                      |
-|------|-------------|------------------------------------|--------------------------------------------------------------|
+| S.No | Session      | Topic             | Problem                                                      |
+|------|-------------|--------------------|--------------------------------------------------------------|
 | 1    | jul_26_s1   | Math / Conversion  | [Binary to Decimal](jul_26_s1/bin_2_dec.py)                  |
 | 2    | jul_26_s1   | Math               | [GCD](jul_26_s1/gcd.py)                                      |
 | 3    | jul_26_s1   | Math               | [LCM](jul_26_s1/lcm.py)                                      |
@@ -127,6 +127,13 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | 58   | sep_13_s12  | Stack         | [Celebrity Problem](sep_13_s12/celebrity_problem.py)         |
 | 59   | sep_13_s12  | Stack         | [Largest Rectangle in Histogram](sep_13_s12/largest_rectangle_in_histogram.py) |
 | 60   | sep_13_s12  | Stack         | [Infix to Postfix](sep_13_s12/infix_to_postfix.py) |
+| 61   | sep_14_s13  | Stack         | [Largest Rectangle in Histogram A2 (Monotonic Stack)](sep_14_s13/largest_rectangle_in_histogram_s2.py) |
+| 62   | sep_14_s13  | Queue         | [Implement Circular/Fixed Array Queue](sep_14_s13/implement_queue.py)                       |
+| 63   | sep_14_s13  | Queue         | [Implement Queue using Stack](sep_14_s13/implement_queue_using_stack.py)         |
+| 64   | sep_14_s13  | Queue         | [Gas Station](sep_14_s13/gas_station.py) |
+| 65   | sep_14_s13  | Queue         | [Sliding Window Maximum](sep_14_s13/sliding_window_maximum.py) |
+| 66 | sep_14_s13 | Queue | [LRU Cache](sep_14_s13/lru_cache.py) |
+
 ---
 
 
