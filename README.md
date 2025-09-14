@@ -23,7 +23,6 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 ---
 
 ## Assignments / Practice Problems
-
 | S.No | Topic | Problem |
 |------|-------|---------|
 | 1  | Bit Manipulation      | [Great XOR](assignments/great_xor.py) |
@@ -42,25 +41,26 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | 14 | Array                | [Count Pairs](assignments/count_pairs_with_sum.py) |
 | 15 | Array                | [Get All Pairs](assignments/get_all_two_sum.py) |
 | 16 | Array                | [Find median of 2 sorted arrays](assignments/median_of_2_sorted_elements.py) |
-| 17 | Backtracking         | [Subset Sum](assignments/subset_sum_bt.py) |
-| 18 | Backtracking         | [Rat in a Maze](assignments/rat_in_a_maze.py) |
-| 19 | Backtracking         | [Generate Parentheses](assignments/generate_paranthesis.py) |
-| 20 | Backtracking         | [Solve Sudoku A1 (TLE)](assignments/sudoku_solver.py)|
-| 21 | LinkedList           | [Detect Cycle](assignments/detect_cycle_ll.py)|
-| 22 | LinkedList           | [First Node of Cycle](assignments/first_node_of_cycle.py)|
-| 23 | LinkedList           | [LinkedList Intersection A2](assignments/ll_intersection_a2.py)|
-| 24 | LinkedList           | [Middle of LinkedList](assignments/middle_of_ll.py)|
-| 25 | LinkedList           | [LinkedList Palindrome](assignments/palindrome_ll.py)|
-| 26 | LinkedList           | [Reverse Doubly Linked List](assignments/reverse_dl.py)|
-| 27 | LinkedList           | [Next greater element in Linked List](assignments/next_greater_elem_ll.py) |
-| 28 | LinkedList           | [Reverse nodes in K group](assignments/reverse_nodes_in_k_group.py) |
-| 29 | LinkedList           | [Split Linked List Alternatively](assignments/split_ll_alternative.py) |
-| 30 | LinkedList           | [Reorder List](assignments/reorder_ll.py) |
-| 31 | Stack                | [Stack Using Queues (Pop Heavy)](assignments/stack_using_queues.py) |
-| 32 | Stack                | [Stack using Linked List](assignments/stack_using_ll.py) |
-| 33 | Stack                | [Evaluation of Postfix](assignments/evaluation_of_postfix.py) |
-| 34 | Stack                | [Prefix to Infix](assignments/prefix_2_infix.py) |
-
+| 17 | Array /Prefix Sum    | [Largest Subarray equals to 0](assignments/largest_subarry_eq_0.py) |
+| 18 | Backtracking         | [Subset Sum](assignments/subset_sum_bt.py) |
+| 19 | Backtracking         | [Rat in a Maze](assignments/rat_in_a_maze.py) |
+| 20 | Backtracking         | [Generate Parentheses](assignments/generate_paranthesis.py) |
+| 21 | Backtracking         | [Solve Sudoku A1 (TLE)](assignments/sudoku_solver.py)|
+| 22 | LinkedList           | [Detect Cycle](assignments/detect_cycle_ll.py)|
+| 23 | LinkedList           | [First Node of Cycle](assignments/first_node_of_cycle.py)|
+| 24 | LinkedList           | [LinkedList Intersection A2](assignments/ll_intersection_a2.py)|
+| 25 | LinkedList           | [Middle of LinkedList](assignments/middle_of_ll.py)|
+| 26 | LinkedList           | [LinkedList Palindrome](assignments/palindrome_ll.py)|
+| 27 | LinkedList           | [Reverse Doubly Linked List](assignments/reverse_dl.py)|
+| 28 | LinkedList           | [Next greater element in Linked List](assignments/next_greater_elem_ll.py) |
+| 29 | LinkedList           | [Reverse nodes in K group](assignments/reverse_nodes_in_k_group.py) |
+| 30 | LinkedList           | [Split Linked List Alternatively](assignments/split_ll_alternative.py) |
+| 31 | LinkedList           | [Reorder List](assignments/reorder_ll.py) |
+| 32 | Stack                | [Stack Using Queues (Pop Heavy)](assignments/stack_using_queues.py) |
+| 33 | Stack                | [Stack using Linked List](assignments/stack_using_ll.py) |
+| 34 | Stack                | [Evaluation of Postfix](assignments/evaluation_of_postfix.py) |
+| 35 | Stack                | [Prefix to Infix](assignments/prefix_2_infix.py) |
+| 36 | Stack                | [Min Stack Approach 1 (Using index)](assignments/min_stack_a1.py) |
 
 
 ---
@@ -122,7 +122,7 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | 52   | sep_07_s11  | LinkedList    | [Copy List with Random pointer A1](sep_07_s11/copy_ll_random_pointer.py) |
 | 53   | sep_07_s11  | LinkedList    | [Copy List with Random pointer A2](sep_07_s11/copy_ll_random_pointer_a2.py) |
 | 54   | sep_07_s11  | Stack         | [Valid Paranthesis](sep_07_s11/valid_paranthesis.py)         |
-| 55   | sep_07_s11  | Stack         | [Min Stack](sep_07_s11/min_stack.py)                         |
+| 55   | sep_07_s11  | Stack         | [Min Stack Approach 2 (Using manipulation)](sep_07_s11/min_stack.py)                         |
 | 56   | sep_13_s12  | Stack         | [Stock using Queues (Push Heavy)](sep_13_s12/stock_using_queues_a2.py) |
 | 57   | sep_13_s12  | Stack         | [Stock Span](sep_13_s12/stock_span.py)                       |
 | 58   | sep_13_s12  | Stack         | [Celebrity Problem](sep_13_s12/celebrity_problem.py)         |
