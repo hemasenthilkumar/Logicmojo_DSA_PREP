@@ -19,6 +19,7 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | **sep_06_s10** | Linked List |
 | **sep_07_s11** | Linked List, Stack |
 | **sep_13_s12** | Stack |
+| **sep_14_s13** | Stack, Queues |
 ---
 
 ## Assignments / Practice Problems
