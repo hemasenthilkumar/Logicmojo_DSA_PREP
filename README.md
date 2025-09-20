@@ -20,6 +20,7 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | **sep_07_s11** | Linked List, Stack |
 | **sep_13_s12** | Stack |
 | **sep_14_s13** | Stack, Queues |
+| **sep_20_s14** | Hashing & Strings |
 ---
 
 ## Assignments / Practice Problems
@@ -122,18 +123,21 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | 52   | sep_07_s11  | LinkedList    | [Copy List with Random pointer A1](sep_07_s11/copy_ll_random_pointer.py) |
 | 53   | sep_07_s11  | LinkedList    | [Copy List with Random pointer A2](sep_07_s11/copy_ll_random_pointer_a2.py) |
 | 54   | sep_07_s11  | Stack         | [Valid Paranthesis](sep_07_s11/valid_paranthesis.py)         |
-| 55   | sep_07_s11  | Stack         | [Min Stack Approach 2 (Using manipulation)](sep_07_s11/min_stack.py)                         |
+| 55   | sep_07_s11  | Stack         | [Min Stack Approach 2 (Using manipulation)](sep_07_s11/min_stack.py) |
 | 56   | sep_13_s12  | Stack         | [Stock using Queues (Push Heavy)](sep_13_s12/stock_using_queues_a2.py) |
 | 57   | sep_13_s12  | Stack         | [Stock Span](sep_13_s12/stock_span.py)                       |
 | 58   | sep_13_s12  | Stack         | [Celebrity Problem](sep_13_s12/celebrity_problem.py)         |
 | 59   | sep_13_s12  | Stack         | [Largest Rectangle in Histogram](sep_13_s12/largest_rectangle_in_histogram.py) |
 | 60   | sep_13_s12  | Stack         | [Infix to Postfix](sep_13_s12/infix_to_postfix.py) |
 | 61   | sep_14_s13  | Stack         | [Largest Rectangle in Histogram A2 (Monotonic Stack)](sep_14_s13/largest_rectangle_in_histogram_s2.py) |
-| 62   | sep_14_s13  | Queue         | [Implement Circular/Fixed Array Queue](sep_14_s13/implement_queue.py)                       |
-| 63   | sep_14_s13  | Queue         | [Implement Queue using Stack](sep_14_s13/implement_queue_using_stack.py)         |
+| 62   | sep_14_s13  | Queue         | [Implement Circular/Fixed Array Queue](sep_14_s13/implement_queue.py)  |
+| 63   | sep_14_s13  | Queue         | [Implement Queue using Stack](sep_14_s13/implement_queue_using_stack.py) |
 | 64   | sep_14_s13  | Queue         | [Gas Station](sep_14_s13/gas_station.py) |
 | 65   | sep_14_s13  | Queue         | [Sliding Window Maximum](sep_14_s13/sliding_window_maximum.py) |
 | 66 | sep_14_s13 | Queue | [LRU Cache](sep_14_s13/lru_cache.py) |
+| 67 | sep_20_s14 | Hashing | [Hashing Basics](sep_20_s14/hashing_basics.py) |
+| 68 | sep_20_s14 | Strings | [Reverse words in string](sep_20_s14/reverse_words_in_string.py) |
+| 69 | sep_20_s14 | Strings | [Search Pattern](/sep_20_s14/search_pattern.py)
 
 ---
 
