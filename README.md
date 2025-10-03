@@ -21,6 +21,10 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | **sep_13_s12** | Stack |
 | **sep_14_s13** | Stack, Queues |
 | **sep_20_s14** | Hashing & Strings |
+| **sep_21_s15** | Hashing & Strings |
+| **sep_27_s16** | Trees |
+| **sep_28_s17** | Trees |
+
 ---
 
 ## Assignments / Practice Problems
