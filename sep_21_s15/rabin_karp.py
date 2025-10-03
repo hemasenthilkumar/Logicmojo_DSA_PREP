@@ -52,33 +52,36 @@ the comparision
 
 """
 
-def pattern_match(txt, pat):
+def searchPattern(txt, pat):
+        n, m = len(txt), len(pat)
+        d = 256        # alphabet size
+        q = 101        # a prime modulus
+        res = []
 
-    n = len(txt)
-    m = len(pat)
-    q = 3 # the prime number
-    res=[]
-    t, p = 0,0
-    # calculate the hash value
-    for i in range(m):
-        t += ord(txt[i]) + int(q**i)
-        p += ord(pat[i]) + int(q**i)
-    print(p,t)
-    for i in range(n-m+1):
-        if p == t:
-            for j in range(m):
-                if txt[i+j] != pat[j]:
-                    break
-            if j == m-1:
-                res.append(i)
+        # h = d^(m-1) % q
+        h = pow(d, m-1, q)
 
-    # update the hash value
-    if i+m < n:
-        t = ((t-ord(txt[i]))/q) + (ord(txt[i+m]) * int(q^m-1))
+        # initial hash values
+        p, t = 0, 0
+        for i in range(m):
+            p = (d * p + ord(pat[i])) % q
+            t = (d * t + ord(txt[i])) % q
 
-    return res
+        # slide over text
+        for i in range(n - m + 1):
+            if p == t:  # potential match
+                if txt[i:i+m] == pat:
+                    res.append(i)
+
+            if i < n - m:
+                t = (d * (t - ord(txt[i]) * h) + ord(txt[i + m])) % q
+                if t < 0:  # handle negative values
+                    t += q
+
+        return res
+
 
 if __name__ =="__main__":
     txt = "abcab"
     pat = "ab"
-    print(pattern_match(txt, pat))
+    print(searchPattern(txt, pat))

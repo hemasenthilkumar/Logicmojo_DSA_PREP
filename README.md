@@ -138,7 +138,15 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | 67 | sep_20_s14 | Hashing | [Hashing Basics](sep_20_s14/hashing_basics.py) |
 | 68 | sep_20_s14 | Strings | [Reverse words in string](sep_20_s14/reverse_words_in_string.py) |
 | 69 | sep_20_s14 | Strings | [Search Pattern](/sep_20_s14/search_pattern.py)
-
+| 70 | sep_21_s15 | Strings | [KMP](/sep_21_s15/kmp_algorithm.py) |
+| 71 | sep_21_s15 | Strings | [Rabin Karp](/sep_21_s15/rabin_karp.py) |
+| 72 | sep_27_s16 | Tree | [Tree Basics](/sep_27_s16/tree_basics.py) |
+| 73 | sep_27_s16 | Tree | [BFS](/sep_27_s16/bfs.py) |
+| 74 | sep_27_s16 | Tree | [DFS](/sep_27_s16/dfs.py) |
+| 75 | sep_27_s16 | Tree | [BT Insertion](/sep_27_s16/insertion.py) |
+| 76 | sep_27_s16 | Tree | [BT Deletion](/sep_27_s16/deletion.py) |
+| 77 | sep_27_s16 | Tree | [BST Insertion](/sep_27_s16/bst_insertion.py) |
+| 78 | sep_27_s16 | Tree | [BST Search](/sep_27_s16/bst_search.py) |
 ---
 
 
