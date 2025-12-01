@@ -24,6 +24,7 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | **sep_21_s15** | Hashing & Strings |
 | **sep_27_s16** | Trees |
 | **sep_28_s17** | Trees |
+| **oct_04_s18** | Trees |
 
 ---
 
@@ -150,7 +151,12 @@ This repo contains solutions to various Data Structures & Algorithms problems, o
 | 75 | sep_27_s16 | Tree | [BT Insertion](/sep_27_s16/insertion.py) |
 | 76 | sep_27_s16 | Tree | [BT Deletion](/sep_27_s16/deletion.py) |
 | 77 | sep_27_s16 | Tree | [BST Insertion](/sep_27_s16/bst_insertion.py) |
-| 78 | sep_27_s16 | Tree | [BST Search](/sep_27_s16/bst_search.py) |
+| 79 | oct_04_s18 | Tree | [Bottom View](/oct_04_s18/bottom_view.py) |
+| 80 | oct_04_s18 | Tree | [Construct Tree](/oct_04_s18/construct_tree.py) |
+| 81 | oct_04_s18 | Tree | [LCA BST](/oct_04_s18/lowest_common_ancestor_bst.py) |
+| 82 | oct_04_s18 | Tree | [LCA](/oct_04_s18/lowest_common_ancestor.py) |
+| 83 | oct_04_s18 | Tree | [Top View](/oct_04_s18/top_view.py) |
+| 84 | oct_04_s18 | Tree | [Vertical Tree Traversal](/oct_04_s18/vertical_tree_traversal.py) |
 ---
 
 
